@@ -1,6 +1,6 @@
 # Ashe
 
-Check out our docs 🚀 at https://ashe-docs.vercel.app/
+Check out our docs at https://ashe-docs.vercel.app/
 
 ## Installation Guide
 
